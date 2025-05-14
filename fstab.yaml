@@ -1,0 +1,5 @@
+mountpoints:
+  /: https://drive.google.com/drive/folders/1Fckqde5tu9wUphIPVB-tsI1iiZQTS_QJ?dmr=1&ec=wgc-drive-globalnav-goto
+
+folders:
+  /products/: /products/default
