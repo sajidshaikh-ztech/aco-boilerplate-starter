@@ -4,5 +4,5 @@ mountpoints:
 
 folders:
   /customer/: /customer
-  /customer/login: /customer/login
+  /customer/account/: /customer/account
   /products/: /products/default
